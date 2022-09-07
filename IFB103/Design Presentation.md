@@ -6,19 +6,24 @@ Cuppa is an app that gives coffee aficionados a chance to find new cafes, learn 
 ### Describe the problem space you wish to solve in detail.
 When most of us are trying to find new restaurants or cafes to go to, we usually default to Google or word of mouth. But these recommendations are cumbersome and hardly ever work out. What if you got to a cafe, and found they didn't offer soy milk? Or you got there and realised you were in the "rich" part of town?
 
-It's incredibly difficult to experiment with the cafes you visit, yet the more you default to the regular, the less you feel that same spark of enjoyment and energy that coffee once gave you. And slowly emerging out of lockdowns, it's been hard to get that coffee mix
+It's incredibly difficult to experiment with the cafes you visit, yet the more you default to the regular, the less you feel that same spark of enjoyment and energy that coffee once gave you. And slowly emerging out of lockdowns, it's been hard to get that coffee mix while meeting acquaintances, joining clubs, or just striking up a conversation.
 
 ### Discuss in detail your user demographic and why they would like your app.
+
 
 
 ### Show the outputs of your complete competitor analysis, emphasising the gap in the market.
 
 
-### A set of interactive demonstrations of your application using ideal user scenarios.
+
+### A set of interactive demonstrations of your application using ideal user scenarios. (LUCAS)
+
 
 
 ### Prototype review and feedback, discussing how you implemented change iteratively in your app.
 
 
+
 ### A compelling close to your presentation.
+
 
