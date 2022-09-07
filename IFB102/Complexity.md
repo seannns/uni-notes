@@ -65,7 +65,7 @@ Software evolution
 Backwards/Forwards Compatibility
 	Back: new program aware of old libraries
 	New libraries should supply a new API and old API for legacy programs.
-	
+	eg. game might update to use new 3D feature on new OS. New game should be made to run on old phone, this is back compat. However, old 2D game should run on new OS. This is forward compat.
 
 API
 	Application Programming Interface: interface through which programs communicate with each other.
