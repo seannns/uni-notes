@@ -48,3 +48,13 @@ URL
 	URL can reference anything, not just web.
 
 Javascript
+	Programming language embedded in HTML
+	Runs in browser, downloaded in web page.
+	JIT compiled for efficiency.
+	Allows interaction - eg. Google Docs
+
+AJAX
+	Asynchronous JavaScript and XML
+	Web Apps
+	Use asynchrous calls to server to get/send data through XML
+	Now have the benefits
