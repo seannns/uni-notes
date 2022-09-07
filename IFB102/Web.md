@@ -7,4 +7,7 @@ Worldwide Web
 	URL: Method for identifying pages.
 
 Advantages
-	
+	The web insulates clients and servers from one another. Any client can view a page, any server can view a page.
+	Clients only need a web browser.
+	Weblinks can be broken but this makes web infrastructure simple.
+	Open standard - TCP
