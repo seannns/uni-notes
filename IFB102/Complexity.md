@@ -60,4 +60,10 @@ Software Libraries
 	Encapsulate complex code into libraries.
 
 Software evolution
-	As new hardware/features arise, software libraries can be updated. Howevb
+	As new hardware/features arise, software libraries can be updated. However, as updates occur old programs can be broken leading to compatibility issues.
+
+Backwars/Forwards Compatibility
+	Back: new program aware of old libraries
+	New libraries should supply a new API and old API for legacy programs.
+
+API
