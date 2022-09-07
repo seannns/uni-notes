@@ -30,4 +30,14 @@ Hierarchical Abstraction
 		These layers help decouple software application, services, libraries, hardware
 
 Execution
-	CompilationL
+	Compilation:
+		1. High Level (eg. Python)
+		2. Assembly Code (human readable)
+		3. Machine code (binary)
+		4. CPU
+	Interpretation
+		1. High level (eg. Python)
+		2. Intermediate form
+		3. Interpreter (pretends to be a CPU)
+		4. CPU
+	JIT com
