@@ -16,7 +16,7 @@ It's incredibly difficult to experiment with the cafes you visit, yet the more y
 
 We compared Cuppa to the four most relevant competitors in Apple's App Store market. We assessed things like map integration, event scheudling, social features, tutorial features, as well as consideration of taste preferences and dietary requirements. Certain apps offer very refined forms of these features; like OpenTable, with a range of taste preference settings, a detailed map, and a significant scheduling implementation. However, OpenTable is more of a specialty app - there aren't any social features and there are no recipes or tutorials available.
 
-Yelp faced similar issues; strong tast
+Yelp faced similar issues; strong taste preference considerations, efficient reservations, easy-to-view and easy-to-read reviews... but again, no social, no recipes or tutorials
 Or, consider Google Maps. While not explicitly an app for finding restaurants or foods, it does have some features available making it a more generalist implementation than OpenTable. While - of course - the map is of the best available, it once again completely lacks any social interaction, it has no taste preferences, or recipes, nor can you even view the items or menu of a location. 
 
 ### A set of interactive demonstrations of your application using ideal user scenarios. (LUCAS)
