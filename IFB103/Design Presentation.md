@@ -1,7 +1,7 @@
 ### Introduce your app.
 This - is Cuppa. You might not have heard of it before.
 
-Cuppa is an app that gives coffee aficionados a chance to find new cafes, learn to make new drinks, meet with fellow 
+Cuppa is an app that gives coffee aficionados a chance to find new cafes, learn to make new drinks and meet with fellow coffee connoisseurs, all in one simple, intuitive app. 
 
 ### Describe the problem space you wish to solve in detail.
 
