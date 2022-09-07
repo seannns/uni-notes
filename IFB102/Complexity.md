@@ -16,3 +16,13 @@ Universality
 Programming Languages
 	To simplify computers we must make them closer to humans.
 		eg. make the language closer to human.
+	Programming is the ultimate form of system configuration.
+
+Emulators
+	Universality allows us to emulate CPUs in software.
+	eg. Game emulators let us run old console games on newer, different hardware.
+
+Hierarchical Abstraction
+	Software Libraries
+	Essentially means hiding layers.
+	
