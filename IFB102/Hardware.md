@@ -16,4 +16,11 @@ Software
 
 Programmability
 	Flexibility, Customisation, Adaption, Extension, Upgradeability
-	Some computers with fixed devices a
+	Some computers with fixed devices aren't programmable (eg. Fridge)
+
+How do computers work?
+	Do simple things quickly, eg. calculations
+	1.5 GHz = 1.5 billion instructions in 1 second.
+
+Logical View of a Computer
+	
