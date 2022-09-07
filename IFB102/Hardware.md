@@ -22,5 +22,13 @@ How do computers work?
 	Do simple things quickly, eg. calculations
 	1.5 GHz = 1.5 billion instructions in 1 second.
 
-Logical View of a Computer
-	
+CPU components
+	Control Unit
+		Fetches data, decodes machine instruction, stores data
+	Set of registers
+		Storage locations holding inputs and outputs for the ALU. Fast access, few.
+	ALU
+		Performs computation and comparison operations.
+
+Moore's Law
+	Transistor density doubles every 2 years - expone
