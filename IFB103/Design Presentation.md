@@ -1,5 +1,7 @@
 ### Introduce your app.
-This - is Cuppa. 
+This - is Cuppa. You might not have heard of it before.
+
+Cuppa is an app that gives coffee aficionados a chance to find new cafe 
 
 ### Describe the problem space you wish to solve in detail.
 
