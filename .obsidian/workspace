@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IFB102/FIQ 6.md",
+            "file": "IFB102/FIQ 6 - Web site technologies.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IFB102/FIQ 6.md",
+                "file": "IFB102/FIQ 6 - Web site technologies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IFB102/FIQ 6.md",
+                "file": "IFB102/FIQ 6 - Web site technologies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IFB102/FIQ 6.md"
+                "file": "IFB102/FIQ 6 - Web site technologies.md"
               }
             }
           }
@@ -134,7 +134,7 @@
     "IFB102/FIQ 3.md",
     "IFB102/FIQ 1.md",
     "IFB102/FIQ 2.md",
-    "IFB102/FIQ 6.md",
+    "IFB102/FIQ 6 - Web site technologies.md",
     "IFB102/Web.md",
     "IFB102/Hardware.md",
     "IFB102/Complexity.md",
