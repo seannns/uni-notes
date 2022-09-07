@@ -31,4 +31,14 @@ CPU components
 		Performs computation and comparison operations.
 
 Moore's Law
-	Transistor density doubles every 2 years - expone
+	Transistor density doubles every 2 years - exponential.
+	More seped and performance = more pixels, more sophisticated visualisation.
+
+Microprocessors
+	Incorporate core functions of a computer onto a single chip.
+
+Semiconductors
+	Used to make transistors, memory chips, CCD imaging sensors, etc.
+
+CPU
+	Brains of the computer, contains 
