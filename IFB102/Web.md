@@ -57,4 +57,13 @@ AJAX
 	Asynchronous JavaScript and XML
 	Web Apps
 	Use asynchrous calls to server to get/send data through XML
-	Now have the benefits
+	Now have the benefits of webapps
+		No need to install apps
+		Easy to update apps
+		Platform independent
+		Reduce client requirements - just need broser
+
+Web Services
+	Can use different client programs, not just JS in broswer. eg. native machine code
+	Send data over HTTP rather than web page.
+	
