@@ -14,7 +14,7 @@ It's incredibly difficult to experiment with the cafes you visit, yet the more y
 
 ### Show the outputs of your complete competitor analysis, emphasising the gap in the market.
 
-We compared Cuppa rto
+We compared Cuppa to the four most relevant competitors in Apple's App Store market. 
 
 ### A set of interactive demonstrations of your application using ideal user scenarios. (LUCAS)
 
