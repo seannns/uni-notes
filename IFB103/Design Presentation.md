@@ -8,7 +8,7 @@ When most of us are trying to find new restaurants or cafes to go to, we usually
 
 It's incredibly difficult to experiment with the cafes you visit, yet the more you default to the regular, the less you feel that same spark of enjoyment and energy that coffee once gave you. And slowly emerging out of lockdowns, it's been hard to get that coffee mix while meeting acquaintances, joining clubs, or just striking up a conversation.
 
-### Discuss in detail your user demographic and why they would like your app.
+### Discuss in detail your user demographic and why they would like your app. (LUCAS)
 
 
 
@@ -20,7 +20,7 @@ It's incredibly difficult to experiment with the cafes you visit, yet the more y
 
 
 
-### Prototype review and feedback, discussing how you implemented change iteratively in your app.
+### Prototype review and feedback, discussing how you implemented change iteratively in your app. (LUCAS)
 
 
 
