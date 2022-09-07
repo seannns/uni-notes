@@ -55,4 +55,9 @@ JIT and VMs
 	Means that program can be optimised based on uses for the particular machine.
 
 Software Libraries
-	HL programming languages make it easier to make l
+	HL programming languages make it easier to make libraries of common components - pre written code.
+	How we build layers of software, hierarchies of abstraction.
+	Encapsulate complex code into libraries.
+
+Software evolution
+	As new hardware/features arise, software libraries can be updated. Howevb
