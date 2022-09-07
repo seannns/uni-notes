@@ -64,7 +64,10 @@ AJAX
 		Reduce client requirements - just need broser
 
 XML
-	Data markup language - describes different kinds of data, not necessarily for pres
+	Data markup language - describes different kinds of data, not necessarily for presentation
+	Data description language
+	Looks like HTML, but more general.
+	XML is about arbitrary data - eg. docx files are zipped XML.
 
 Web Services
 	Can use different client programs, not just JS in broswer. eg. native machine code
