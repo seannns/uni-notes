@@ -25,4 +25,9 @@ Emulators
 Hierarchical Abstraction
 	Software Libraries
 	Essentially means hiding layers.
-	
+	Hiding complexity using layers of software libraries.
+	Sophisticated higher levels of software on top of simpler layers.
+		These layers help decouple software application, services, libraries, hardware
+
+Execution
+	CompilationL
