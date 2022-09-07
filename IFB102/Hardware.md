@@ -41,4 +41,10 @@ Semiconductors
 	Used to make transistors, memory chips, CCD imaging sensors, etc.
 
 CPU
-	Brains of the computer, contains 
+	Brains of the computer, contains control unit, ALU and Immediate Access Store.
+
+RAM
+	Temporary storage that needs power.
+
+HDD/flash drive
+	Permanent storage, no power requirement.
