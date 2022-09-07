@@ -20,7 +20,7 @@ Yelp faced similar issues; strong taste preference considerations, efficient res
 
 Or, consider Google Maps. While not explicitly an app for finding restaurants or foods, it does have some features available making it a more generalist implementation than OpenTable. While - of course - the map is of the best available, it once again completely lacks any social interaction, it has no taste preferences, or recipes, nor can you even view the items or menu of a location. 
 
-So what hole does this leave in the market? Consider - it's a lot more intuitive to have one app on your phone than several. And this is where Cuppa becomes an attractive offering. The two features offered over *all* of the analysed competitors are social interactions and a tutorial/recipe interface.
+So what hole does this leave in the market? Consider - it's a lot more intuitive to have one app on your phone than several. And this is where Cuppa becomes an attractive offering. The two features offered over *all* of the analysed competitors are social interactions and a tutorial/recipe interface. With current, available apps, you would need at least three to complete the role Cuppa exists for. Yelp, Google Maps or OpenTable for finding cafe's, Facebook or competing social media apps for any social
 
 ### A set of interactive demonstrations of your application using ideal user scenarios. (LUCAS)
 
