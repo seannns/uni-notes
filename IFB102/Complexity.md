@@ -71,6 +71,9 @@ API
 	Application Programming Interface: interface through which programs communicate with each other.
 
 Compiled Languages
-
+	Converted into machine code for execution.
+	Faster and more efficient.
+	More control over hardware.
+	Need a build step - manual compilati
 
 Interpreted Languages
