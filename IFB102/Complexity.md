@@ -21,6 +21,7 @@ Programming Languages
 Emulators
 	Universality allows us to emulate CPUs in software.
 	eg. Game emulators let us run old console games on newer, different hardware.
+	We can emulate old CPU/libraries/software by interpreting original machine code or 
 
 Hierarchical Abstraction
 	Software Libraries
@@ -47,3 +48,7 @@ Execution
 		3. JIT compiler program/VM translate to bytecodes @ runtime
 		4. Machine code (binary)
 		5. CPU
+
+JIT and VMs
+	Modern HL programming languages, like Java
+	Means that program can be optimised based on uses for the particular machine.
