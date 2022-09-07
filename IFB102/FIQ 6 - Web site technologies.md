@@ -1,3 +1,3 @@
 ```Web Site Technologies
-Explain and illustrate some techniques which are 
+Explain how Bootstrap simplifies modern web development.
 ```
