@@ -34,5 +34,5 @@ This doesn't just take up dwindling storage space on a device - it's also just f
 
 ### A compelling close to your presentation.
 
-Sure, you could keep going to the same cafe you've been going to for the last 5 years. Or, you could try out Cuppa and find one that might not only excite your tastebuds, but also let you make new friends and maybe learn something about the barista process along the way.
+Sure, you could keep going to the same cafe you've been going to for the last 5 years. Or, you could try out Cuppa and find one that might not only excite your tastebuds, but also let you socialise and maybe learn something about the barista process along the way. All in one app.
 
