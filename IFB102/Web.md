@@ -30,4 +30,15 @@ HTTP:
 	Communicates between browser and server.
 	Operates over TCP/IP
 	Contains several verbs: GET, POST, HEAD, OPTIONS, PUT, DELETE, TRACE, CONNECT
+	HTTPS layers HTTP over SSL/TLS protocol for security.
+	HTTP over TCP over IP. Web is JUST HTTP.
+
+Status Codes
+	200 = OK
+	404 = Not Found
+	500 = Internal Server Error
+	503 = Service Unavailable
+
+URL
+	Universal Resource Locator
 	
