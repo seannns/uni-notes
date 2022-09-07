@@ -41,4 +41,10 @@ Status Codes
 
 URL
 	Universal Resource Locator
-	
+	Scheme = protocol (http://)
+	Domain = DNS name (eg. www.qut.edu.au)
+	Path = file path name on a server
+	Query String = name value pairs
+	URL can reference anything, not just web.
+
+Javascript
