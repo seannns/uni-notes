@@ -69,3 +69,8 @@ Backwards/Forwards Compatibility
 
 API
 	Application Programming Interface: interface through which programs communicate with each other.
+
+Compiled Languages
+
+
+Interpreted Languages
