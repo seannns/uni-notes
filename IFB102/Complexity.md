@@ -10,4 +10,9 @@ Ways to combat complexity
 Universality
 	Universal model of computation - powerful enough to compute all that can be computed.
 		eg. Universal Turing Machine
-	Anything that can be computed can 
+	Anything that can be computed can be computed by a Universal Turing Machine.
+	If a system is Turing equivalent, it can compute anything computable.
+
+Programming Languages
+	To simplify computers we must make them closer to humans.
+		eg. make the language closer to human.
