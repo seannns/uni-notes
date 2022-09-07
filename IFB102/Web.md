@@ -66,4 +66,12 @@ AJAX
 Web Services
 	Can use different client programs, not just JS in broswer. eg. native machine code
 	Send data over HTTP rather than web page.
-	
+	Like a programming language library API
+	Allows programs to be exposed as services across the web.
+	eg. RPi project downloading and displaying weather from website, use it to animate display
+
+State
+	Many web apps use a state, eg. remembering a user or cart
+	Can be represented in different ways
+		Cookies - most reliable but can be turned off for security/privacy issues
+		URL parameters
