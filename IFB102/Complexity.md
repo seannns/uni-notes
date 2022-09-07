@@ -40,4 +40,10 @@ Execution
 		2. Intermediate form
 		3. Interpreter (pretends to be a CPU)
 		4. CPU
-	JIT com
+	JIT compilation
+		Compiles program to machine code only when program about to be ran.
+		1. High level (eg. Java)
+		2. Intermediate form
+		3. JIT compiler program/VM translate to bytecodes @ runtime
+		4. Machine code (binary)
+		5. CPU
