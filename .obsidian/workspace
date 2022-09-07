@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IFB102/Hardware.md",
+            "file": "IFB103/Design Presentation.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IFB102/Hardware.md",
+                "file": "IFB103/Design Presentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IFB102/Hardware.md",
+                "file": "IFB103/Design Presentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IFB102/Hardware.md"
+                "file": "IFB103/Design Presentation.md"
               }
             }
           }
@@ -129,6 +129,7 @@
   },
   "active": "4673f9ca20e0cc0e",
   "lastOpenFiles": [
+    "IFB102/Hardware.md",
     "Testing.md"
   ]
 }
