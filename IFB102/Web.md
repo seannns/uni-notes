@@ -63,6 +63,9 @@ AJAX
 		Platform independent
 		Reduce client requirements - just need broser
 
+XML
+	Data markup language - describes different kinds of data, not necessarily for pres
+
 Web Services
 	Can use different client programs, not just JS in broswer. eg. native machine code
 	Send data over HTTP rather than web page.
@@ -75,3 +78,10 @@ State
 	Can be represented in different ways
 		Cookies - most reliable but can be turned off for security/privacy issues
 		URL parameters
+		Hidden form fields
+		HTML5 - Web storage
+
+Security
+	HTTPS = has digital certificate
+	SSL = Secure Sockets Layer
+	TLS = Transport Layer Security
