@@ -12,3 +12,14 @@ Advantages
 	Weblinks can be broken but this makes web infrastructure simple.
 	Open standard - TCP/IP.
 
+HTML
+	Hyper text markup language
+	Describes web pages
+
+Getting web pages:
+	1. Web page obtained using HTTP protocol layered on TCP/IP
+	2. Browser issues HTTP GET request at a URL
+	3. Receives response containing HTML data
+	4. Web browser displays HTML data
+
+Sending information to a web server
