@@ -4,7 +4,7 @@ This - is Cuppa. You might not have heard of it before.
 Cuppa is an app that gives coffee aficionados a chance to find new cafes, learn to make new drinks and meet with fellow coffee connoisseurs, all in one simple, intuitive app. 
 
 ### Describe the problem space you wish to solve in detail.
-When most of us are trying to find new restaurants or cafes to go to, we usually default to Google or word of mouth. 
+When most of us are trying to find new restaurants or cafes to go to, we usually default to Google or word of mouth. But these recommendations are cumbersome and hardly ever work out. What if you got to a cafe, and found they didn't offer soy milk?
 
 ### Discuss in detail your user demographic and why they would like your app.
 
