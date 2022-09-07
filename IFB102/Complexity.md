@@ -74,6 +74,10 @@ Compiled Languages
 	Converted into machine code for execution.
 	Faster and more efficient.
 	More control over hardware.
-	Need a build step - manual compilati
+	Need a build step - manual compilation necessary.
+	eg. C, C++, Rust, Go.
 
 Interpreted Languages
+	Interpreter runs program line-by-line.  
+	JIT compilation makes gap between compiled and interpreted speed smaller.
+	eg. PHP, Ruby, Python, JS.
