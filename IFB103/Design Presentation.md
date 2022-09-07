@@ -14,7 +14,7 @@ It's incredibly difficult to experiment with the cafes you visit, yet the more y
 
 ### Show the outputs of your complete competitor analysis, emphasising the gap in the market.
 
-We compared Cuppa to the four most relevant competitors in Apple's App Store market. We assessed things like map integration, event scheudling, social features, tutorial features, as well as consideration of taste preferences and dietary requirements. Certain apps offer very refined forms of these features; like OpenTable, with a range of taste preference settings, a detailed map, and a significant scheduling implementation. 
+We compared Cuppa to the four most relevant competitors in Apple's App Store market. We assessed things like map integration, event scheudling, social features, tutorial features, as well as consideration of taste preferences and dietary requirements. Certain apps offer very refined forms of these features; like OpenTable, with a range of taste preference settings, a detailed map, and a significant scheduling implementation. However, OpenTable is more of a specialty app - there aren't 
 
 ### A set of interactive demonstrations of your application using ideal user scenarios. (LUCAS)
 
