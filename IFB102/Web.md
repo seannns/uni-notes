@@ -23,3 +23,11 @@ Getting web pages:
 	4. Web browser displays HTML data
 
 Sending information to a web server
+	Information can be uploaded to web server using a POST verb.
+
+HTTP:
+	Hyper text transfer protocol
+	Communicates between browser and server.
+	Operates over TCP/IP
+	Contains several verbs: GET, POST, HEAD, OPTIONS, PUT, DELETE, TRACE, CONNECT
+	
