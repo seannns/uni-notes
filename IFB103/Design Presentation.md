@@ -1,5 +1,3 @@
-
-
 ### Describe the problem space you wish to solve in detail.
 When most of us are trying to find new restaurants or cafes to go to, we usually default to Google or word of mouth. But these recommendations are cumbersome and hardly ever work out. What if you got to a cafe, and found they didn't offer soy milk? Or you got there and realised you were in the "rich" part of town?
 
