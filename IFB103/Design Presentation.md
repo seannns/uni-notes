@@ -27,7 +27,7 @@ This doesn't just take up dwindling storage space on a device - it's also just f
 ### A set of interactive demonstrations of your application using ideal user scenarios. (LUCAS)
 
 
-
+677
 ### Prototype review and feedback, discussing how you implemented change iteratively in your app. (LUCAS)
 
 
