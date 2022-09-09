@@ -77,4 +77,4 @@ Top 3 & Bottom 3
 	Bottom 3:
 		1. Being entirely honest, there was definitely a constant language barrier that sometimes meant communication was misconstrued.
 		2. Having our 3rd team member leave meant both of us felt slightly unmotivated and left us a bit behind on work at the time.
-		3. Towards the end, there were a few unmet deadlines and a bit of a rush to finish the work.
+		3. Towards the end, there were a few unmet deadlines and a bit of a rush to finish the work.oat
