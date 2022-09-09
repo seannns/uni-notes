@@ -28,6 +28,10 @@
 		- Buttons in top right can't be reached on a big screen
 		- "Is that it?" (in relation to not knowing if they can scroll on education screen)
 		- Instructions section on education card interface too small. Image too big.
+		- "How do I go back?" (No navigation buttons, only gestures)
+	USER 2:
+		- Similar comments as User 1 on layout/sizing issues
+		- 
 
 5. Thematic Data Analysis
 6. Persona
