@@ -31,7 +31,7 @@
 		- "How do I go back?" (No navigation buttons, only gestures)
 	USER 2:
 		- Similar comments as User 1 on layout/sizing issues
-		- "Maybe have a filter instead of a search bar,"
+		- "Maybe have a filter instead of a search bar, I don't know what all the different coffees are called" (in relation to the Learn screen)
 
 5. Thematic Data Analysis
 6. Persona
