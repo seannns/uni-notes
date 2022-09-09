@@ -36,5 +36,8 @@
 5. Thematic Data Analysis
 6. Persona
 8. Mid-Fi User Testing
-10. Team Description
-11. Top 3 & Bottom 3
+	USER 1:
+		- Colours unappealing - "Make it look more like a coffee app, it's too nature-y"
+		- 
+1. Team Description
+2. Top 3 & Bottom 3
