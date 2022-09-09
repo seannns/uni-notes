@@ -24,7 +24,9 @@
 	9 - User goes home, makes coffee @ home.
 
 4. Low-Fi User Testing
-
+	USER 1:
+		- Buttons in top right can't be reached on a big screen
+		- 
 
 5. Thematic Data Analysis
 6. Persona
