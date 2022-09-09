@@ -10,4 +10,4 @@
 		Feature that allows for calling an Uber or Cab or Designated Driver
 		"Plan" including emergency contacts - automated?
 	Description:
-		To 
+		To combat drink-driving in the form of an app, 4 primary features are necessary. One: Certain wearables can track Transdermal Alcohol Content; as a result, the app should have wearable integrations. Two: Warnings and alarms. With the use of these wearables, warnings should not
