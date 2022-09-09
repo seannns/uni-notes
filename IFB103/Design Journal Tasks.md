@@ -70,4 +70,5 @@
 1. Team Description
 	Lucas: Always made solid attempts even if he felt he couldn't contribute as much as he wanted, and always listened to feedback and worked on it to the best of his abilities.
 Top 3 & Bottom 3
-	
+	Top 3:
+		1
