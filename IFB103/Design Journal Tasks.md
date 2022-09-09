@@ -44,12 +44,11 @@
 		- All buttons too small (However, prototype was viewed on an iPhone 12 Mini despite being built for the 13 Pro Max. Sizing likely not an issue there.)
 		- "How do I go to the next step?" (In relation to the 4th screen)
 
-QUESTIONS:
+QUESTIONS: I asked a group of friends and family not in this class to answer the follow
 	"I feel like this app is visually cohesive and consistent."
 	"I feel like the interactions with this app are logical and make sense."
 	"I think this app is easy to use."
 	"I do not think this app needs substantial feature additions."
 	"I feel like this app is visually appealing."
-	"I "
 1. Team Description
 2. Top 3 & Bottom 3
