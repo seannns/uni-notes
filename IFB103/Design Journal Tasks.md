@@ -68,5 +68,6 @@
 			"I don't like the second font" (referring to the quote font?)
 			"Colours don't really make me think coffee, they make me think of plants"
 1. Team Description
-	Lucas: Always made solid attempts
+	Lucas: Always made solid attempts even if he felt he couldn't contribute as much as he wanted, and always listened to feedback and worked on it to the best of his abilities.
 Top 3 & Bottom 3
+	
