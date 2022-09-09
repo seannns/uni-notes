@@ -75,4 +75,5 @@ Top 3 & Bottom 3
 		2. Working on the prototypes was pretty quick: we were both able to complete them relatively succinctly.
 		3. Generally supportive environment to work in.
 	Bottom 3:
-		1. 
+		1. Being entirely honest, there was definitely a constant language barrier that sometimes meant communication was misconstrued.
+		2. Having our 3rd team member leave meant both of us felt slightly unmotivated and left us a
