@@ -14,4 +14,7 @@
 
 2. Storyboard Planning
 	1 - User bored @ home making coffee, soy milk
-	2 - User dislikes ta
+	2 - User dislikes taste of coffee
+	3 - User opens Maps, Yelp and Facebook to find cafe. Clock in corner.
+	4 - User visits cafe, no soy milk.
+	5 - User download
