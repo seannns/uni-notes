@@ -20,4 +20,7 @@
 	5 - User uses Cuppa, finds another cafe with directions, has soy.
 	6 - User buys coffee, enjoys.
 	7 - User looks at Cuppa events
-	8 - User attends event, learning to make drinks w/ new frie
+	8 - User attends event, making and testing drinks w/ new friends.
+	9 - User goes home, makes coffee @ home.
+
+3. Low-Fi U
