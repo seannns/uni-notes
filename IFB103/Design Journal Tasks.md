@@ -17,4 +17,5 @@
 	2 - User dislikes taste of coffee
 	3 - User opens Maps, Yelp and Facebook to find cafe. Clock in corner.
 	4 - User visits cafe, no soy milk.
-	5 - User download
+	5 - User uses Cuppa, finds another cafe with directions, has soy.
+	6 - User goes home, 
