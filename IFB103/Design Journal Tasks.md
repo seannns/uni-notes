@@ -38,6 +38,9 @@
 8. Mid-Fi User Testing
 	USER 1:
 		- Colours unappealing - "Make it look more like a coffee app, it's too nature-y"
+		- Back buttons too small
+		- "Can you tap to see the reviews or is it just showing the stars" (in relation to Screen 2)
+	USER 2:
 		- 
 1. Team Description
 2. Top 3 & Bottom 3
