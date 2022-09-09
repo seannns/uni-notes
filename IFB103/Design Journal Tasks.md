@@ -27,6 +27,7 @@
 	USER 1:
 		- Buttons in top right can't be reached on a big screen
 		- "Is that it?" (in relation to not knowing if they can scroll on education screen)
+		- Instructions section on education card interface too small. Image too big.
 
 5. Thematic Data Analysis
 6. Persona
