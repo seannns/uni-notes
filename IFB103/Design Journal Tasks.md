@@ -34,7 +34,6 @@
 		- "Maybe have a filter instead of a search bar, I don't know what all the different coffees are called" (in relation to the Learn screen)
 
 5. Thematic Data Analysis
-6. Persona
 7. Mid-Fi User Testing
 	USER 1:
 		- Colours unappealing - "Make it look more like a coffee app, it's too nature-y"
@@ -69,4 +68,5 @@
 			"I don't like the second font" (referring to the quote font?)
 			"Colours don't really make me think coffee, they make me think of plants"
 1. Team Description
+	Lucas: Always made solid attempts
 Top 3 & Bottom 3
