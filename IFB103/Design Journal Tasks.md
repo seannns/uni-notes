@@ -72,4 +72,7 @@
 Top 3 & Bottom 3
 	Top 3:
 		1. Feedback was well-received both ways and communication lines were always open; responses were succinct.
-		2. 
+		2. Working on the prototypes was pretty quick: we were both able to complete them relatively succinctly.
+		3. Generally supportive environment to work in.
+	Bottom 3:
+		1. 
