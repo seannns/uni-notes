@@ -23,14 +23,11 @@
 	8 - User attends event, making and testing drinks w/ new friends.
 	9 - User goes home, makes coffee @ home.
 
-3. Low-Fi Design Justifications 
 4. Low-Fi User Testing
 
 
 5. Thematic Data Analysis
 6. Persona
-7. Mid-Fi Design Justifications
 8. Mid-Fi User Testing
-9. High-Fi Design Justifications
 10. Team Description
 11. Top 3 & Bottom 3
