@@ -31,7 +31,7 @@
 		- "How do I go back?" (No navigation buttons, only gestures)
 	USER 2:
 		- Similar comments as User 1 on layout/sizing issues
-		- 
+		- "Maybe have a filter instead of a search bar,"
 
 5. Thematic Data Analysis
 6. Persona
