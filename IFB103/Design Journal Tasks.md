@@ -41,7 +41,8 @@
 		- Back buttons too small
 		- "Can you tap to see the reviews or is it just showing the stars" (in relation to Screen 2)
 	USER 2:
-		- Buttons too small (However, prototype was viewed on an iPhone 12 Mini despite being built for the 13 Pro Max. Sizing likely not an issue there.)
+		- All buttons too small (However, prototype was viewed on an iPhone 12 Mini despite being built for the 13 Pro Max. Sizing likely not an issue there.)
 		- "How do I go to the next step?" (In relation to the 4th screen)
+
 1. Team Description
 2. Top 3 & Bottom 3
