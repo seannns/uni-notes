@@ -27,7 +27,12 @@
 4. Low-Fi User Testing
 
 
-5. 
-6. Thematic Data Analysis
+5. Thematic Data Analysis
+6. Persona
+7. Mid-Fi Design Justifications
+8. Mid-Fi User Testing
+9. High-Fi Design Justifications
+10. Team Description
+11. Top 3 & Bottom 3
 
 5. 
