@@ -34,5 +34,3 @@
 9. High-Fi Design Justifications
 10. Team Description
 11. Top 3 & Bottom 3
-
-5. 
