@@ -23,4 +23,11 @@
 	8 - User attends event, making and testing drinks w/ new friends.
 	9 - User goes home, makes coffee @ home.
 
-3. Low-Fi U
+3. Low-Fi Design Justifications 
+4. Low-Fi User Testing
+
+
+5. 
+6. Thematic Data Analysis
+
+5. 
