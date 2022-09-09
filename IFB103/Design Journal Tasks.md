@@ -67,5 +67,6 @@
 		COMMENTS:
 			"Colours are a bit ugly"
 			"I don't like the second font" (referring to the quote font?)
+			"Colours don't really make me think coffee, they make me think of plants"
 1. Team Description
 Top 3 & Bottom 3
