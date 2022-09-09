@@ -6,4 +6,6 @@
 	Features:
 		Alarm when in own vehicle with illegal TAC level
 		Wearable integration for location tracking, TAC tracking, warnings, notifications
-		Estimated BAC 
+		Estimated BAC for users w/o sensor
+		Feature that allows for calling an Uber or Cab or Designated Driver
+		Auto "plan"
