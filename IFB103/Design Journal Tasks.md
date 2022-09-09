@@ -18,4 +18,6 @@
 	3 - User opens Maps, Yelp and Facebook to find cafe. Clock in corner.
 	4 - User visits cafe, no soy milk.
 	5 - User uses Cuppa, finds another cafe with directions, has soy.
-	6 - User goes home, 
+	6 - User buys coffee, enjoys.
+	7 - User looks at Cuppa events
+	8 - User attends event, learning to make drinks w/ new frie
