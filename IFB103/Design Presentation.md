@@ -35,7 +35,7 @@ This doesn't just take up dwindling storage space on a device - it's also just f
 
 There are several ways someone might use Cuppa, and for several unique purposes.
 
-Consider the opportunity presented earlier - this user wants to end their reliance on instant coffee, and finally have a chance at social interaction after COVID lockdowns. 
+Consider the opportunity presented earlier - this user wants to end their reliance on instant coffee, and finally have a chance at social interaction after COVID lockdowns. How would they go about both finding a new suitable cafe and attending events 
 
 ### Prototype review and feedback, discussing how you implemented change iteratively in your app. (LUCAS)
 
