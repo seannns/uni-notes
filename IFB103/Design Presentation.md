@@ -14,9 +14,7 @@ Cuppa is built first and foremost for young adults living, working and studying 
 
 Consider a user who, for this example, we can call "John." John is 20, and is studying full time while working a part time job. Coming out of several lockdowns due to COVID-19, it's been hard for him to meet with friends and he's mainly been getting his coffee fix at home, with boxed soy milk and instant coffee powder.  Now that we're at the point where lockdowns are easing off, John's been itching to try out any of the cafe's around the city, and he's feeling a bit desperate to meet a couple friends and acquaintances, new or old.
 
-That is essentially what Cuppa offers. We think it's the right time, right now, to capitalise on the lack of social interaction so many of us have experienced throughout the pandemic, and offer something that can, in a way, rejuvenate our person.  On this line of thinking, we also thought - what's more synonymous with city dwellers than expensive coffee on a daily basis? Why not give an easy opportunity to both get your coffee and meet someone new at the same time? Or you might even want to learn a new skill that you can chat abouj
-
-
+That is essentially what Cuppa offers. We think it's the right time, right now, to capitalise on the lack of social interaction so many of us have experienced throughout the pandemic, and offer something that can, in a way, rejuvenate our social person.  On this line of thinking, we also thought - what's more synonymous with city dwellers than expensive coffee on a daily basis? Why not give an easy opportunity to both get your coffee and meet someone new at the same time?
 
 ### Show the outputs of your complete competitor analysis, emphasising the gap in the market.
 
