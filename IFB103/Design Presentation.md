@@ -53,5 +53,5 @@ Going into a medium fidelity prototype, we worked on colour choices while also i
 
 ### A compelling close to your presentation.
 
-Sure, you could keep going to the same cafe you've been going to for the last 5 years, alone, by yourself. Or, you could try out Cuppa and find one that might not only excite your tastebuds, but also let you socialise and maybe learn something about the barista process along the way. All together in one app. Furthermore, one user expressed that they felt the instructions on the education screen were small, even for the intended device - an iPhone 13 Pro Max. They also felt this screen lacked
+Sure, you could keep going to the same cafe you've been going to for the last 5 years, alone, by yourself. Or, you could try out Cuppa and find one that might not only excite your tastebuds, but also let you socialise and maybe learn something about the barista process along the way. All together in one app. 
 
