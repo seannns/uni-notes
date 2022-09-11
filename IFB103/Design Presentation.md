@@ -33,7 +33,9 @@ This doesn't just take up dwindling storage space on a device - it's also just f
 
 ### A set of interactive demonstrations of your application using ideal user scenarios. (LUCAS)
 
-There are several ways someone might use Cu
+There are several ways someone might use Cuppa, and for several unique purposes.
+
+Consider the opportunity presented earlier - a young cit
 
 ### Prototype review and feedback, discussing how you implemented change iteratively in your app. (LUCAS)
 
