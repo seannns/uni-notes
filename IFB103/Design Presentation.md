@@ -10,7 +10,7 @@ Cuppa is an app that gives coffee aficionados a chance to find new cafes, learn 
 
 ### Discuss in detail your user demographic and why they would like your app. (LUCAS)
 
-
+Cuppa is built first and foremost for young adults living, working and studying in cities or high population density locations.
 
 ### Show the outputs of your complete competitor analysis, emphasising the gap in the market.
 
