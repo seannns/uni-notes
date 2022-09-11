@@ -51,7 +51,7 @@ Starting with the low fidelity prototype, much of the feedback was related to ac
 
 Going into a medium fidelity prototype, we worked on colour choices while also iterating on the received feedback. Navigation buttons were added throughout, all interactable elements were moved to the bottom half of the screen for ambidextrous reachability, and certain elements were made larger for improved accessibility. All considered however, there were not many major changes for the medium fidelity prototype.
 
-With this medium fidelity prototype, we were able to recieve far more detailed feedback. It was apparent colour choice was a contentious issue; many expressed the colours lacked harmony and also didn't exude the feeling a cafe typically would. To us, it seemed the colours were perhaps too cool and too one-note. Additionally, certain elements - particularly on the education screens - were rather low contrast and may reduce accessibility.
+With this medium fidelity prototype, we were able to recieve far more detailed feedback. It was apparent colour choice was a contentious issue; many expressed the colours lacked harmony and also didn't exude the feeling a cafe typically would. To us, it seemed the colours were perhaps too cool and too one-note. Additionally, certain elements - particularly on the education screens - were rather low contrast and may reduce accessibility. Additionally, a severe flaw was found with the user journey; there was not a clear method to navigate to the events screen from the home screen. More in-depth feedback was a
 
 ### A compelling close to your presentation.
 
