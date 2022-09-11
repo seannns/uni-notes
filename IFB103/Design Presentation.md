@@ -12,7 +12,7 @@ Cuppa is an app that gives coffee aficionados a chance to find new cafes, learn 
 
 Cuppa is built first and foremost for young adults living, working and studying in cities or high population density locations. In expansive metropolises synonymous with individualist mentality, we aimed to propose a method through which users could not only just grab a coffee, but maybe make a couple of human connections at the same time... or even learn a new skill in their hectic schedule.
 
-Consider a user who, for this example, we can call "John." John is 20, and is studying full time while working a part time job. Coming out of several lockdowns due to COVID-19, it's been hard for him to meet with friends and he's mainly been getting his coffee fix at home, with boxed soy milk and instant coffee powder. 
+Consider a user who, for this example, we can call "John." John is 20, and is studying full time while working a part time job. Coming out of several lockdowns due to COVID-19, it's been hard for him to meet with friends and he's mainly been getting his coffee fix at home, with boxed soy milk and instant coffee powder.  Now that we're at the point where lockdowns are easing off, John's been itching to try out any 
 
 ### Show the outputs of your complete competitor analysis, emphasising the gap in the market.
 
