@@ -49,7 +49,7 @@ During the prototyping stage, we received quite a lot of qualitative user feedba
 
 Starting with the low fidelity prototype, much of the feedback was related to accessibility, reachability, and vague functionality. While the overall feedback was generally positive, users felt button locations were poor and also expressed distaste at the complete reliance on gestures as opposed to navigation buttons to go back and forth. Finally, this education screen also used a searchbar to find drinks. A user brought up that a filter would be far more effective and intuitive for people perhaps not versed with the types of coffee. As for the social screens, the main user feedback was unclear continuity screen-to-screen.
 
-Going into a medium fidelity prototype, we worked on colour choices while also iterating on the received feedback. Navigation buttons were added throughout, 
+Going into a medium fidelity prototype, we worked on colour choices while also iterating on the received feedback. Navigation buttons were added throughout, all interactable elements were moved to the bottom half of the screen for ambidextrous reachability, and certain elements were made larger for improved accessibility.
 
 ### A compelling close to your presentation.
 
