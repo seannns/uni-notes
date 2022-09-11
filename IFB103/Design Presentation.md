@@ -45,7 +45,7 @@ Another ideal purpose of Cuppa is actually for education. By tapping the "book" 
 
 ### Prototype review and feedback, discussing how you implemented change iteratively in your app. (LUCAS)
 
-
+During
 
 ### A compelling close to your presentation.
 
