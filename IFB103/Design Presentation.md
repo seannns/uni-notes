@@ -37,7 +37,7 @@ There are several ways someone might use Cuppa, and for several unique purposes.
 
 Consider the opportunity presented earlier - this user wants to end their reliance on instant coffee, and finally have a chance at social interaction after COVID lockdowns. How would they go about both finding a new suitable cafe and attending events nearby?
 
-Opening the app for the first time, users are asked both taste preferences and dietary requirements.
+Opening the app for the first time, users are asked both taste preferences and dietary requirements. The "homepage" of the app is a map, presenting you with nearby suitable cafe's as well as 3 buttons. For the purposes of this user,
 
 ### Prototype review and feedback, discussing how you implemented change iteratively in your app. (LUCAS)
 
