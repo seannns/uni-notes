@@ -4,7 +4,7 @@ When most of us are trying to find new restaurants or cafes to go to, we usually
 It's incredibly difficult to experiment with the cafes you visit, yet the more you default to the regular, the less you feel that same spark of enjoyment and energy that coffee once gave you. And slowly emerging out of lockdowns, it's been hard to get that coffee mix while meeting acquaintances, joining clubs, or just striking up a conversation.
 
 ### Introduce your app.
-This - is Cuppa. You might not have heard of it before.
+This - is Cuppa.
 
 Cuppa is an app that gives coffee aficionados a chance to find new cafes, learn to make new drinks and meet with fellow coffee connoisseurs, all in one simple, intuitive app. 
 
