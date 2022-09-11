@@ -47,7 +47,7 @@ Another ideal purpose of Cuppa is actually for education. By tapping the "book" 
 
 During the prototyping stage, we received quite a lot of qualitative user feedback from which our app iterated upon.
 
-Starting with the low fidelity prototype, much of the feedback was related to accessibility, reachability, and vague functionality. While the overall feedback was generally positive, users felt button locations were poor 
+Starting with the low fidelity prototype, much of the feedback was related to accessibility, reachability, and vague functionality. While the overall feedback was generally positive, users felt button locations were poor and also expressed distaste at the complete reliance on gestures as opposed to navigation buttons to go back and forth.
 
 ### A compelling close to your presentation.
 
