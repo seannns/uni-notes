@@ -28,6 +28,8 @@ So what hole does this leave in the market? Consider - it's a lot more intuitive
 
 This doesn't just take up dwindling storage space on a device - it's also just flatout cumbersome. Consider the current user journey of someone trying to try out a new cafe. First, they go to Google Maps to find all the cafe's near them. Then, they have to use OpenTable or Yelp to find out if they cater to their dietary needs or tastes, as well as find pricing or a menu. Provided they found one that meets their needs, they go back to Google Maps for directions, and make their way to the Cafe. Now, let's say they become a regular and suddenly they want to attend meetups or any events happening there - especially after years of lockdowns. Now, they also need Facebook to go on the brand-monitored page and find any necessary information. A completely unintuitive experience that could easily be resolved with Cuppa.
 
+But Cuppa doesn't just bring features together. With it's social integration, it brings PEOPLE together; and that is the motivating principle behind its' creation.
+
 - for problem space, set up like "have you ever gone to cafe sat  by yourself and so is everyone else, no atmosphere - imagine solution where everyone comes together, builds community"
 - go into competitor analysis - these competitors dont bring everything together - "everything to bring everyone together is in one place"
 
