@@ -42,7 +42,7 @@ Opening the app for the first time, users are asked both taste preferences and d
 > "after tapping" tap on cafe
 >"back at" go to main screen
 >"calendar" go to event screen
->"tapping on it" tap
+>"tapping on it" tap on event
 
 There are different ways to integrate socially through Cuppa though. Assume a user has already been visiting a couple of nearby cafes, and potentially wants to use the app more like Instagram or a typical social media; making recommendations or simply connecting with old and new friends. For the coffee drinkers specifically, Cuppa provides that opportunity. Instead of tapping on the calendar events icon, click on the social icon and the social feed screen appears. At the top, the 3 most popular cafes for the day are shown. Below this is the typical social media feed, wherein people may post images from events, meetings, a cafe they visited, a drink they made, latte art - anything particularly appealing to the audience of coffee drinkers. Below the post, users can reply, and a static plus button remains in the bottom right to make your own posts. Additionally, tapping your profile picture in the top right takes you to your own profile, where you can customise your bio, images, and find friends nearby.
 
