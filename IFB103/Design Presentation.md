@@ -49,8 +49,12 @@ There are different ways to integrate socially through Cuppa though. Assume a us
 >at home
 >"click" tap social icon
 > "additionally" tap on profile
+
 Another ideal purpose of Cuppa is actually for education. By tapping the "book" icon on the home screen, users are presented with a wealth of different hot and cold coffee drinks, as well as how much time they take to make and a difficulty meter. Tapping on a card for a particular drink takes you to a step-by-step guide, with an animated image to demonstrate each part of the process. A badge appears next to each card once you've completed a drink, gamifying the process and incentivising further usage. Additionally, users are incentivised to post the final product on their social feed. This feature of the app is particularly suited to people who may be in less population or cafe dense locations, simply want to save money, or want to learn a new skill. 
 
+>"by tapping" tap book
+>"tapping on a" tap on cappuccino
+>"a badge" go back to education
 ### Prototype review and feedback, discussing how you implemented change iteratively in your app. (LUCAS)
 
 During the prototyping stage, we received quite a lot of qualitative user feedback from which our app iterated upon.
